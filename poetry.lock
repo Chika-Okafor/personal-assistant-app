@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Python REMote Interface library"
+name = "remi"
+optional = false
+python-versions = "*"
+version = "2020.2.5"
+
+[metadata]
+content-hash = "7fffc79f7e772ef335b81d8821a5f734896fc70810e93d18847b756ee03b82e1"
+python-versions = "^3.7"
+
+[metadata.hashes]
+remi = ["ac87de6e82b95383cef652367fd7a49d4c4eccfac7d58fd4aceea10934202c75", "bc6cfc53bc3f54ada9c295e140bc90f0d80070af31582e456fa024f5d0279dae"]
